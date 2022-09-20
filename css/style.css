@@ -19,7 +19,6 @@ header h1{
 
 main{
     background-color:  #f6f8f9;
-    height: 850px;
     padding: 60px 130px;
 }
 
@@ -36,7 +35,7 @@ main{
     border: 0px;
     background-color: #47adf1;
     color: white;
-    margin: 0px 10px 0px 50px;
+    margin: 0px 10px 0px 65px;
 }
 
 #add-section{
@@ -54,4 +53,96 @@ hr{
     height: 5px;
     border: 0;
     margin: 20px 0px;
+}
+
+.task{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+h2{
+    font-size: 2.3em;
+    color: #4c5059;
+}
+
+h2 span{
+    font-size: 0.6em;
+}
+
+.task>div{
+    margin: 13px 5px 20px 5px;
+}
+
+.check {
+    color: green;
+    font-size: 0.8em;
+}
+
+.task div div{
+    color: #4c5059;
+    font-size: 1.8em;
+    margin-top: 8px;
+    display: inline;
+}
+
+.not {
+   color: red; 
+}
+
+.editorial{
+    border-radius: 25px;
+    background-color: #45abea;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+.Q1-Goals{
+    border-radius: 25px;
+    background-color: #9c72e4;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+.recruiting{
+    border-radius: 25px;
+    background-color: #64c0a9;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+.mobile{
+    border-radius: 25px;
+    background-color: #f29e33;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+.website{
+    border-radius: 25px;
+    background-color: #d863a1;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+.sales{
+    border-radius: 25px;
+    background-color: #b0c926;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 13px;
+    margin-left: 10px;
+}
+
+#end{
+     padding-bottom: 60px;
 }
