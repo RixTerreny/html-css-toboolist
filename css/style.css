@@ -1,0 +1,21 @@
+*{
+   box-sizing: border-box;
+   margin: 0%; 
+}
+
+header img{
+    width: 100px;
+    padding: 20px;
+    display: inline;
+}
+header h1{
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3.5em;
+    position: absolute;
+    top: 15px
+}
+
+main{
+    background-color:  #f6f8f9;
+}
